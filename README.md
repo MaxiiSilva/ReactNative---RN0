@@ -1,1 +1,1 @@
-Primer trabajo en react nativo
+Primer trabajo en react native
